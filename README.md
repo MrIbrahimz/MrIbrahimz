@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibrahim alzahrani
+- 👋 Hi, I’m @Ibrahim khan
 - 👀 I’m interested in mobile apps and web site
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on best platforms for both (web and mobile)
